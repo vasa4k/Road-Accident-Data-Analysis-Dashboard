@@ -9,29 +9,29 @@ This dashboard harnesses the power of Microsoft Excel to dive deep into road acc
 
 The dataset used in this project comprises the following columns:
 
-Accident_Index
-Accident Date
-Month
-Year
-Day_of_Week
-Junction_Control
-Junction_Detail
-Accident_Severity
-Latitude
-Light_Conditions
-Local_Authority_(District)
-Carriageway_Hazards
-Longitude
-Number_of_Casualties
-Number_of_Vehicles
-Police_Force
-Road_Surface_Conditions
-Road_Type
-Speed_limit
-Time
-Urban_or_Rural_Area
-Weather_Conditions
-Vehicle_Type
+Accident_Index,
+Accident Date,
+Month,
+Year,
+Day_of_Week,
+Junction_Control,
+Junction_Detail,
+Accident_Severity,
+Latitude,
+Light_Conditions,
+Local_Authority_(District),
+Carriageway_Hazards,
+Longitude,
+Number_of_Casualties,
+Number_of_Vehicles,
+Police_Force,
+Road_Surface_Conditions,
+Road_Type,
+Speed_limit,
+Time,
+Urban_or_Rural_Area,
+Weather_Conditions,
+Vehicle_Type.
 
 
 ### **Features** 📈
