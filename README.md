@@ -51,7 +51,7 @@ Microsoft Excel for data analysis and visualization
 GitHub for version control and project repository
 
 
-### **DASHBOARD JPG**
+### **DASHBOARD JPG and INSIGHTS** ℹ
 
 
 ![Screenshot (203)](https://github.com/vasa4k/Road-Accident-Data-Analysis-Dashboard/assets/74816653/48dd518f-df71-4231-8c1f-0c9df932f4a5)
